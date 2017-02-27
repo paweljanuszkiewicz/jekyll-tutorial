@@ -1,2 +1,2 @@
 baseurl: /jekyll-tutorial
-exclude: ['!tutorials-links', 'package.json']
+exclude: ['!tutorials-links', 'package.json', 'node_modules/']
